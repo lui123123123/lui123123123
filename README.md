@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Maria Luisa Castro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%F0%9F%92%BB;Learning+.+.+.;Coffe+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB33F7&width=435&lines=Ingeniera+en+Software+%F0%9F%92%BB;Apasionada+por+aprender)](https://git.io/typing-svg)
 
 ## About Me
 
